@@ -1,7 +1,7 @@
 <?php
 
-		define('BD_URL', 'princesa');
-		define('BD_USUARIO', 'piranha');
+		define('BD_URL', '/host');
+		define('BD_USUARIO', 'Alguém');
 		define('BD_SENHA', 'Será que é mesmo?');
 
 		echo 'Tu é uma ' . BD_URL . '<br>';
